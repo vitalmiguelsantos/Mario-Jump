@@ -19,7 +19,7 @@ const jump = () => {
             mario.style.animation = 'none';
             mario.style.bottom = `${marioposition}px`;
 
-            mario.src = './images/game-over.png'
+            mario.src = 'https://cdn.discordapp.com/attachments/947910673470480397/984168294397411428/game-over.png'
             mario.style.width = '75px'
             mario.style.marginLeft = '50px'
 
