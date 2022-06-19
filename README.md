@@ -1,11 +1,8 @@
-![header](https://cdn.discordapp.com/attachments/947910673470480397/985022381653381140/Laranja_e_Branco_Divertido_Apresentacao_Animada_sobre_Namoro.png)
+![header](https://cdn.discordapp.com/attachments/947910673470480397/988147464777371658/Screenshot_2022-06-19_at_15-24-23_Mario_Jump.png)
 
 > Status: Developed 🙅🏾‍♂️
 
-
-> Responsivity: Nops 
-
-### It is a web application where I practiced my knowledges in HTML and CSS.
+### It is a web application where I practiced my knowledges with animations in CSS through a tutorial.
 
 ## Technologies Used:
 
