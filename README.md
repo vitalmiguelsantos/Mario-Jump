@@ -1,5 +1,3 @@
-![header](https://cdn.discordapp.com/attachments/947910673470480397/988147464777371658/Screenshot_2022-06-19_at_15-24-23_Mario_Jump.png)
-
 > Status: Developed 🙅🏾‍♂️
 
 ### It is a web application where I practiced my knowledges with animations in CSS through a tutorial.
